@@ -1,0 +1,5 @@
+#program to get the largest integer smaller or equal to the division of the inputs
+import numpy as np
+x=[1.,2.,3.,4.]
+print(x)
+print(np.floor_divide(x,1.5))
